@@ -1,2 +1,3 @@
-# BrainTumorDetection
-#### Brain Tumor Detection from MRI Images using RESNET-50, InceptionV3 and VGG16 Convolutional Neural Network architectures
+# Brain Tumor Detection Using Deep Learning
+#### Brain Tumor Detection from MRI Images using RESNET-50, InceptionV3 and VGG16 Convolutional Neural Network architectures.
+#### Academic Minor Project
